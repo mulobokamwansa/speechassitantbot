@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<category><pattern>AMERICAN CIVIL WAR *</pattern>
+<template>Do you think the South was right?</template>
+</category>
+<category><pattern>AMERICAN CIVIL *</pattern>
+<template>I am very interested in the War between the States.</template>
+</category>
+<category><pattern>WHAT IS HISTORY</pattern>
+<template>History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.</template>
+</category>
+<category><pattern>WHAT KIND OF HISTORY *</pattern>
+<template>I like to talk about the history of robots and computers.</template>
+</category>
+<category><pattern>HISTORY</pattern>
+<template>I am very interested in history, too. What period do you like?</template>
+</category>
+<category><pattern>DO YOU KNOW HISTORY</pattern>
+<template><srai>WHAT IS HISTORY</srai></template>
+</category>
+<category><pattern>EXPLAIN HISTORY</pattern>
+<template>History has two broad interpretations, depending on whether you accept the role of individuals as important or not.</template>
+</category>
+<category><pattern>WHO INVENTED THE LIGHT *</pattern>
+<template>Thomas Edison.</template>
+</category>
+<category><pattern>WHO INVENTED THE STEAM *</pattern>
+<template>James Watt.</template>
+</category>
+<category><pattern>TELL ME ABOUT HISTORY</pattern>
+<template><srai>WHAT IS HISTORY </srai></template>
+</category>
+<category><pattern>TELL ME ABOUT ZAMBIA</pattern>
+<template>Zambia, landlocked country in Africa. It is situated on a high plateau in south-central Africa and takes its name from the Zambezi River,
+ which drains all but a small northern part of the country.
+ Large parts of the country are thinly populated. Much of population is concentrated in the country’s most developed area—known as the Line of Rail—which is served by the railway linking the Copperbelt with Lusaka, the capital,
+  and with the border town of Livingstone.</template>
+</category>
+<category><pattern>TELL ME ABOUT ZAMBIAN LAND</pattern>
+<template>Zambia has a long land border on the west with Angola but is divided from its neighbours to the south by the Zambezi River.
+ To the southwest is the thin projection of Namibian territory known as the Caprivi Strip,
+  at the eastern end of which Zambia and three of its neighbours (Namibia, Botswana, and Zimbabwe) 
+  appear to meet at a point—a “quadripoint”—although the precise nature of the meeting is contested. 
+  Man-made Lake Kariba now forms part of the river border with Zimbabwe. Zambia’s other neighbours include Mozambique to the southeast, 
+  Malawi to the east, and Tanzania to the northeast. The long border with the Democratic Republic of the Congo starts at Lake Tanganyika,
+   crosses to Lake Mweru, and follows the Luapula River to the Pedicle,
+    a wedge of Congolese territory that cuts deep into Zambia to give the country its distinctive butterfly shape. 
+    Westward from the Pedicle the frontier follows the Zambezi-Congo watershed to the Angolan border.
+</template>
+</category>
+
+
+<category><pattern>ZAMBIAN RELIEF</pattern>
+<template><srai>Most of Zambia forms part of the high plateau of this part of Africa (3,000 to 5,000 feet [900 to 1,500 metres] above sea level).
+ Major relief features occur where river valleys and rifted troughs, some lake-filled, dissect its surface.
+  Lake Tanganyika lies some 2,000 feet (600 metres) below the plateau, and the largest rift, that containing the Luangwa River, 
+  is a serious barrier to communications. The highest elevations occur in the east, 
+  where the Nyika Plateau on the Malawian border is generally over 6,000 feet (1,800 metres), rising to more than 7,000 feet (2,100 metres)
+ in the Mafinga Hills. The general slope of the plateau is toward the southwest, 
+although the drainage of the Zambezi turns eastward to the Indian Ocean. Over most of the country,
+ancient crystalline rocks are exposed, the product of prolonged erosion processes.
+ In western Zambia they are overlain by younger sandy deposits, relicts of a once more-extensive Kalahari desert. 
+ In central and eastern parts of the country, downwarping of the plateau surface forms swamp- or lake-filled depressions (including Lake Bangweulu and the Lukanga Swamp);
+in more elevated regions,
+ ridges and isolated hills made up of more-resistant rocks punctuate otherwise smooth skylines.</srai></template>
+</category>
+
+<category><pattern> TELL ME ABOUT ZAMBIAN CLIMATE</pattern>
+<template>Although Zambia lies within the tropics,
+ its climate is modified by the altitude of the country and is generally favourable to human settlement and comfort. 
+ The marked seasonal pattern of precipitation is caused by the north and south movement of the intertropical convergence zone (ITCZ), 
+ which shifts with the Sun. In January the ITCZ is in its southernmost position, and the rainy season is at its peak;
+  by June it has moved north, and the weather is dry.
+ Summer rains reduce the high temperatures that might be expected at this time.</template>
+</category>
+
+<category><pattern>WHAT DO YOU KNOW ABOUT ZAMBIAN PLANTS AND ANIMAL LIFE</pattern>
+<template>On the plateau, miombo woodland is characteristic: 
+a semicontinuous tree cover dominated by small leguminous trees of the Brachystegia and Julbernardia genera but with a significant grassy undergrowth.
+ Burning of the grasses in the dry season causes the trees to develop a corky, fire-resistant bark. Mopane woodland,
+  in which Colophospermum mopane dominates but in which the baobab is distinctive, 
+  occurs in the drier and hotter valleys of the Zambezi in the south and in the Luangwa valley.
+   Zambezi teak (Baikiea plurijuga) occurs in the southern fringe of the area covered by the Kalahari Sands.
+    Mukwa (Pterocarpus angolensis), a good furniture timber, is found in the Lake Bangweulu area. 
+    More than one-tenth of the country has been set aside as forest reserve or protected forest areas; in all, 
+    some two-fifths of the country’s land is under protection.
+
+</template>
+</category>
+
+<category><pattern>TELL ME ABOUT ZAMBIAS INDEPENDENCE </pattern>
+<template>During the early years of independence, Zambia was comparatively prosperous. 
+Copper prices rose steadily from 1964 to 1970, boosted by the Vietnam War, and Zambia became the world’s third largest producer of copper.
+ Meanwhile, the leakage of copper profits abroad was greatly reduced. In 1964 the government acquired the mineral rights of the BSAC, 
+ and thereafter it also increased mining taxation. The country embarked on long-overdue investment in communications and social services. 
+ In 1960 there had been only 2,500 Africans in secondary schools; by 1971 there were 54,000.
+  At independence there were fewer than 100 Zambian university graduates; in 1965 the University of Zambia was founded,
+   and by 1971 it had 2,000 students. Zambians finally began to predominate in the upper ranks of the civil service, 
+   the army, business, and the professions. The copper industry still relied heavily on white expertise, but the colour bar had vanished, 
+and in 1966 black mine workers secured a large increase in pay, which soon affected wage levels generally.</template>
+</category>
+
+<category><pattern>TELL ME ABOUT THE PEOPLE OF ZAMBIA</pattern>
+<template>Most Zambians speak Bantu languages of the Niger-Congo language family and are descended from farming and metal-using peoples who settled in the region over the past 2,000 years. 
+Cultural traditions in the northeast and northwest indicate influences and migrations from the upper Congo basin. 
+There are also some descendants of hunters and gatherers who seem to have been pushed back into the Kalahari, the Bangweulu and Lukanga swamps, 
+e Kafue Flats. In the 19th century invaders arrived from the south: the Ngoni settled in the east,
+while the Kololo briefly ruled the Lozi in the upper Zambezi valley.
+Europeans began to enter in significant numbers in the late 19th century.</template>
+</category>
+
+<category><pattern>TELL ME ABOUT ZAMBIAN ECONOMI</pattern>
+<template>Zambia’s economy is heavily dependent on mining, in particular the mining of copper.
+ Reserves of copper ore at some mines are becoming depleted, costs of production have increased, a
+ nd income has fluctuated depending on the price of copper on the world market, accentuating the need for Zambia to broaden its economic base.
+Agriculture is relatively poorly developed, however,
+and major investment in the manufacturing industry did not take place until after independence.
+State involvement in all aspects of the economy, an early feature of independent Zambia,
+created a highly centralized and bureaucratic economic structure. 
+Changes in the political structure of the country in the early 1990s were accompanied by efforts to increase private investment and involvement,
+ particularly in the industrial sector, which continued into the 21st century.</template>
+</category>
+
+<category><pattern>TELL ME ABOUT THE PROVINCES OF ZAMBIA</pattern>
+<template>
+The are 10 provinces in Zambia namely:
+1.Central Province
+Capital: Kabwe
+
+2.Copperbelt Province
+Capital: Ndola.
+
+3.Eastern Province
+Capital: Chipata
+
+4.Luapula Province
+Capital: Mansa
+
+5.Lusaka Province
+Capital: Lusaka
+
+6.Muchinga Province
+Capital: Muchinga
+
+7.Northern Province
+Capital: Kasama
+
+8.North-Western Province
+Capital: Solwezi
+
+9.Southern Province
+Capital: Choma
+
+10.Western Province
+Capital: Mongu
+</template>
+</category>
+
+<category><pattern>WHO WAS THE THIRD PRESINDENT OF ZAMBIA</pattern>
+<template>levy patrick Mwanawasa in  2001 - 2008</template>
+</category>
+<category><pattern>WHO WAS THE FIRST ZAMBIAN PRESINDENT</pattern>
+<template>Dr Kenth Kaunda</template>
+</category>
+<category><pattern>WHEN DID ZAMBIA GET INDEPENDENCE</pattern>
+<template>Zambia got independence in 1964 under the leadership of Kaunda.</template>
+</category>
+<category><pattern>WHO WAS THE SECOND PRESINDENT OF ZAMBIA.</pattern>
+<template>Dr Fredrick Chiluba in 1991 to 2001</template>
+</category>
+<category><pattern>WHO WAS THE FOURTH ZAMBIAN PRESINDENT</pattern>
+<template>Rupiah Banda IN 2008 to 2011</template>
+</category>
+<category><pattern>WHO WAS THE FIRTH PRESINDENT OF ZAMBIA</pattern>
+<template>Dr. Micheal Chilufya Sata IN 2011 to 2014</template>
+</category>
+<category><pattern>WHO IS THE CURENT PRESINDENT OF ZAMBIA</pattern>
+<template>Dr. Ediger chagwa Lungu</template>
+</category>
+</aiml>

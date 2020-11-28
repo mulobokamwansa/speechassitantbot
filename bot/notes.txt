@@ -1,0 +1,7 @@
+Main key:  64 bits.
+56-bits are selected and permuted using Permuted Choice One (PC1); and then divided into two 28-bit halves.
+In each round:
+Left-rotate each half separately by either 1 or 2 bits according to a rotation schedule.
+
+Select 24-bits from each half, and permute the combined 48 bits.  
+This forms a round key.
